@@ -15,15 +15,14 @@
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
-def simple_function_example():
-    pass
+from datetime import datetime
+name = "Maksym"
+
+print(f"{name} start programming at {datetime.now()}")
 ```
 ```text
 << SOME text HERE >>
 ```
-
-- результати виконання індивідуального завдання (якщо такі є);
-
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі; - Першу програму на Python
