@@ -1,4 +1,4 @@
 from datetime import datetime
-name = "Petro"
+name = "Maksym"
 
 print(f"{name} start programming at {datetime.now()}")
