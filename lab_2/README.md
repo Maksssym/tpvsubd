@@ -20,7 +20,30 @@ f = {"ss", } # Set
 
 print("Перша константа", False)
 
+print(abs(-14.1), f"є рівним {abs(14.1)}")
 
+letters = ["m", "a", "x"]
+for i in range(len(letters)):
+    print(f"На позиції {i} знаходиться буква {letters[i]}")
+
+B = True
+print("Значить B=True" if B else "Значить B=False")
+
+B = 0
+try:
+    print("Що буде якщо", 10/B, "?")
+except Exception as e:
+    print(e)
+finally:
+    print("А ось в чому справа!")
+
+with open("README.md", "r") as f:
+    for line in f:
+        print(line)
+
+this_is_lambda = lambda first, last: f'Максим сьогодні прокинувся о: {first} {last}'
+print("Це просто функція:", this_is_lambda)
+print("Це її виклик:", this_is_lambda('7', 'ранку'))
 ```
 
 ### Висновок: 
