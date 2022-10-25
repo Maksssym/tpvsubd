@@ -11,10 +11,16 @@
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
-from datetime import datetime
-name = "Maksym"
+a = "змінна з текстом"
+b = 1 # числова Змінна
+c = ["a", 1, 1.25, "Слово"] # List
+d = {"a": "Слово", "b": 1} # Dict
+e = ("a", ) # Tuple
+f = {"ss", } # Set
 
-print(f"{name} start programming at {datetime.now()}")
+print("Перша константа", False)
+
+
 ```
 
 ### Висновок: 
