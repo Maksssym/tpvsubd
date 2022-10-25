@@ -8,7 +8,7 @@
     1. Навчився створювати програму на Python
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті); 
 
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_1/1lab.PNG "code")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_3/Screenshots/1.PNG "code result")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
