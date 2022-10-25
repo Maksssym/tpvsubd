@@ -7,13 +7,13 @@
     1. Навчився створювати 8 нових програм на Python, вивчив новий матеріал. 
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті); 
 
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/2.PNG "code result")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/1lab.PNG "code result")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/1lab.PNG "code result")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/1lab.PNG "code result")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/1lab.PNG "code result")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/1lab.PNG "code result")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/1lab.PNG "code result")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_2/Screenshots/2.PNG "code result")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_2/Screenshots/3.PNG "code result")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_2/Screenshots/4.PNG "code result")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_2/Screenshots/5.PNG "code result")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_2/Screenshots/6.PNG "code result")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_2/Screenshots/7.PNG "code result")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_2/Screenshots/8.PNG "code result")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
