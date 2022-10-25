@@ -28,5 +28,5 @@ print(f"{name} start programming at {datetime.now()}")
 - :question: Чи вдалося виконати всі завдання; - Так
 - :question: Чи виникли складності у виконанні завдання; - Ні
 - :question: Чи подобається такий формат здачі роботи (Feedback); - Більше так, ніж ні
-- :question: Побажання для покращення (Suggestions); - Немає
+- :question: Побажання для покращення (Suggestions); - Немаe
 ---
