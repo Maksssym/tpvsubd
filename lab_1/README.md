@@ -10,7 +10,7 @@
     1. Навчився створювати першу програму на Python
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті); 
 
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/1lab.PNG "code")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_1/1lab.PNG "code")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
