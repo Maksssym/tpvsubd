@@ -15,7 +15,7 @@
 ![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_4/Screenshots/res%20of%20last%20comm.PNG "6")
 
 ### Висновок: 
-- :question: Що зроблено в роботі; - 8 програм на Python
+- :question: Що зроблено в роботі; - Додавання бібліотек та робота з ними
 - :question: Чи досягнуто мети роботи; - Досягнуто
 - :question: Які нові знання отримано; - Робота з GitHub та Python 
 - :question: Чи вдалось відповісти на всі питання задані в ході роботи; - Так
