@@ -28,9 +28,12 @@ class Figure:
         self.type = type
         self.length = length
 
-#a = Figure("трапеція", 18)
-#b = Figure("квадрат", 0)
-#c = Figure("квадрат", 1)
+a = Figure("квадрат", 18)
+print(a.type, a.length) 
+b = Figure("прямокутник", 17)
+print(b.type, b.length)
+c = Figure("трикутник", 16)
+print(c.type, c.length)
 
 class Name:
     def __init__(self, name) -> None:
