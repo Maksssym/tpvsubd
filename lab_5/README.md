@@ -7,12 +7,9 @@
     1. Навчився виконувати перевірку assert, працювати з юніт тестами 
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті); 
 
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_4/Screenshots/lib%20requests.PNG "1")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_4/Screenshots/pip%20packages.PNG "2")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_4/Screenshots/pip%20version.PNG "3")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_4/Screenshots/pipenv%20commands.PNG "4")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_4/Screenshots/res%20of%20commands.PNG "5")
-![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_4/Screenshots/res%20of%20last%20comm.PNG "6")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_5/Screenshots/name_assert.PNG "1")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_5/Screenshots/number_assert.PNG "2")
+![alt text](https://github.com/Maksssym/tpvsubd/blob/main/lab_5/Screenshots/validation_of_arguments.PNG "3")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 Перевірка assert:
